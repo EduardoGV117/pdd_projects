@@ -7,7 +7,6 @@
     ## Fecha de revisión:    
     ## Objetivo del programa: Introduccion a los servicios de aws y Asciinema
     ## Descripcion (detallada): A partir de este proyecto se hara un acercamiento a los servicios de aws y el uso de las instancias para trabajar con un entorno ubuntu a traves de una conexion ssh desde nuestra computadora o cualquier otra         de manera remota, tambien del uso de asciinema para poder capturar en video todas los comandos empleados    
-```
 
 # INTRODUCCION
 ## Creacion de la instancia y ejecucion de la misma a traves de ssh
