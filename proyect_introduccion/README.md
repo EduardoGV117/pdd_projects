@@ -10,13 +10,18 @@
 
 # INTRODUCCION
 ## Creacion de la instancia y ejecucion de la misma a traves de ssh
+### Al entrar a AWS nos saldra esta ventana, seleccionamos EC2
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen1.png)
+### configuramos la instancia a como la necesitamos (solo creamos la llave pem, elegimos ubuntu y potencia)
+### le damos click en donde dice "correcto: el lanzamiento de la instancia se inicio correctamente" en esos numeros que salen despues le damos click
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen2.png)
+### una vez ahi buscamos en el lado izquierdo las direcciones ip elesticas y asignamos una y le damos en asignar
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen3.png)
+### al estar asignada corectamente la asociamos en el boton "asociar esta direccion IP elastica
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen4.png)
+### en esta ventana donde dice instancia seleccionamos nuestra instancia ubuntu y le damos asociar
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen5.png)
+### Ahora si ya estaria todo para conectarnos, esa nueva ip elastica sera fija en la cual ya con la misma podremos acceder a nuestro server ubuntu desde ssh. Procedemos a abrir cmd
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen6.png)
+### En cmd primero buscamos la carpeta donde esta el archivo de la llave pem, en este caso es downloads (descargas) asi que ponemos "CD downloads" y despues el codigo de conexion que es "ssh -i pddllave.pem ubuntu@54.89.12.244 y le damos enter y nos conectara 
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen7.png)
-### Ejemplo de estructura
-
-![Imagen de CodeMaster](https://eduardogv.tech/images/CodeMaster.png)
