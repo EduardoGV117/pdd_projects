@@ -25,3 +25,7 @@
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen6.png)
 ### En cmd primero buscamos la carpeta donde esta el archivo de la llave pem, en este caso es downloads (descargas) asi que ponemos "CD downloads" y despues el codigo de conexion que es "ssh -i pddllave.pem ubuntu@54.89.12.244 y le damos enter y nos conectara 
 ![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/Imagen7.png)
+
+## Instalacion de asciinema y configuracion inicial de la terminal
+### Se mostrara un asciinema con todo el proceso:
+[![asciicast](https://asciinema.org/a/njgaFztT9GP2UGDGBfe9ooCWB)](https://asciinema.org/a/njgaFztT9GP2UGDGBfe9ooCWB)
