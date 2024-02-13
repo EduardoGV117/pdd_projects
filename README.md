@@ -1,2 +1,2 @@
 # pdd_projects
-my projects for design patterns
+Mis proyectos de la materia de pdd (patrones de diseño)
