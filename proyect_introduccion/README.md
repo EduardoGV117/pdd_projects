@@ -28,4 +28,8 @@
 
 ## Instalacion de asciinema y configuracion inicial de la terminal
 ### Se mostrara un asciinema con todo el proceso:
-[![asciicast](https://asciinema.org/a/njgaFztT9GP2UGDGBfe9ooCWB)](https://asciinema.org/a/njgaFztT9GP2UGDGBfe9ooCWB)
+[![grabacion asciinema](https://asciinema.org/a/njgaFztT9GP2UGDGBfe9ooCWB)](https://asciinema.org/a/njgaFztT9GP2UGDGBfe9ooCWB)
+
+## Ya con configuracion en la terminal de ubuntu y corriendo un programa en c++ el cual despliega un saludo y una frase motivacional aleatoria
+![Imagen](https://github.com/EduardoGV117/pdd_projects/blob/main/proyect_introduccion/imagenes/introduccion_imagen.png)
+
